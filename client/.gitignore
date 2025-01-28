@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Flask specific files
+instance/
+
+# Streamlit cache files
+.streamlit/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Pip compiled files
+*.pip
+*.whl
+
+# Jupyter Notebook checkpoints (if used for exploration)
+.ipynb_checkpoints/
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# IDE and Editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Backup files
+*.bak
+*.tmp
+
+# Node.js-related files (if you use npm for additional features)
+node_modules/
+package-lock.json

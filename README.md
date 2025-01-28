@@ -4,6 +4,13 @@ This project is a chatbot application that uses **Flask** as the backend, **Stre
 
 ---
 
+
+## Can access the deployed chat bot on Hugging Face via
+
+https://huggingface.co/spaces/kcdw/Chat-Bot
+
+-------------
+
 ## Features
 
 - **Flask Backend**: API server to handle requests and interact with the Gemini API.
